@@ -1,7 +1,39 @@
 
+
 * Links
 - https://treeyopermacultureedu.wordpress.com
 
 * Literature
 - [[file:assets/documents/PERMACULTURE_A_Designers_Manual.pdf][PERMACULTURE A Designers Manual Bill Mollison]]
   
+* Quotes
+#+BEGIN_QUOTE
+Refuse, Reduce, Re-use, Repair, Recycle
+
+Formidable Vegetable Sound System on No Such Thing As Waste
+#+END_QUOTE
+* Video's
+** Global Gardener
+Global Gardener is a documentary film series about the permaculture
+approach to sustainable agriculture[1]. The series premiered on
+Australian television in 1991
+
+Bill Mollison presents the series' four episodes:
+- "In the Tropics", 
+- "Dry Lands", 
+- "Cool Climates", 
+- "Urban" 
+
+each of which addresses the application of permaculture principles in
+a different environmental context. 
+
+The series is distributed on DVD and VHS videotape by Bullfrog
+Films[2]. But I found the episodes also on vimeo:
+- Global Gardener 1 - In the tropics: https://vimeo.com/277384035
+- Global Gardener 2 - Dry lands: https://vimeo.com/278866742
+- Global Gardener 3 - Cool climates: https://vimeo.com/279397635
+- Global Gardener 4 - Urban Permaculture: https://vimeo.com/280845715
+
+
+[1] https://en.wikipedia.org/wiki/Global_Gardener
+[2] http://www.bullfrogfilms.com/catalog/global.html
